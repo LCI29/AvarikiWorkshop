@@ -1,0 +1,1 @@
+const val CASE_FINISHED_DESC = "Случай завершен."

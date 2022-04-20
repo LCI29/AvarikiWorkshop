@@ -266,7 +266,7 @@ fun main() {
     }
 
     val sitFinish = Situation(
-        text = "Случай завершен."
+        text = CASE_FINISHED_DESC
     )
         .attachTo(sit6_3)
         .attachTo(sit5_a)
